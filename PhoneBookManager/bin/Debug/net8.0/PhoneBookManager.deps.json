@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "PhoneBookManager/1.0.0": {
+        "runtime": {
+          "PhoneBookManager.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PhoneBookManager/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\bin\Debug\net8.0\PhoneBookManager.exe
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\bin\Debug\net8.0\PhoneBookManager.deps.json
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\bin\Debug\net8.0\PhoneBookManager.runtimeconfig.json
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\bin\Debug\net8.0\PhoneBookManager.dll
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\bin\Debug\net8.0\PhoneBookManager.pdb
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.AssemblyInfoInputs.cache
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.AssemblyInfo.cs
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.csproj.CoreCompileInputs.cache
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.dll
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\refint\PhoneBookManager.dll
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.pdb
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\PhoneBookManager.genruntimeconfig.cache
+C:\School folder\RiderFolder\PhoneBookManager\PhoneBookManager\obj\Debug\net8.0\ref\PhoneBookManager.dll
